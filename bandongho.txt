@@ -1,0 +1,4 @@
+VT0234,Vat Tu 1,Cai,17,0
+VT0345,Vat Tu 2,Cai,33,0
+VT0456,Vat Tu 3,Cai,1,0
+VT0458,Vat Tu 4,Cai,1,0

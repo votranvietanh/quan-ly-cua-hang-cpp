@@ -1,0 +1,16 @@
+﻿  ctdl.h
+  Main.cpp
+A:\Source VS\Cautrucdulieu\chucnangphu.h(15,20): warning C4018: '<': signed/unsigned mismatch
+A:\Source VS\Cautrucdulieu\chucnangphu.h(28,20): warning C4018: '<=': signed/unsigned mismatch
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(273,21): warning C4018: '<': signed/unsigned mismatch
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(563,6): error C2182: 'nhap_vt_hd': illegal use of type 'void'
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(563,17): error C2065: 'DS_SAN_PHAM': undeclared identifier
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(563,30): error C2065: 'ds_vt': undeclared identifier
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(564,1): error C2143: syntax error: missing ';' before '{'
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(564,1): error C2447: '{': missing function header (old-style formal list?)
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(603,39): error C2061: syntax error: identifier 'DS_SAN_PHAM'
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(657,14): error C2065: 'ds_vt': undeclared identifier
+A:\Source VS\Cautrucdulieu\xu_ly_de.h(723,20): warning C4018: '<': signed/unsigned mismatch
+A:\Source VS\Cautrucdulieu\Main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+A:\Source VS\Cautrucdulieu\Main.cpp(11,2): warning C4551: function call missing argument list
+  Generating Code...
